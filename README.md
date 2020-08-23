@@ -1,6 +1,6 @@
 # Grocery List App
 
-The App is designed to be shared between people online or used in offline.
+The App is designed to be used for list creation, shared between people online or used in offline for single person use.
 
 Current things that need to be dealt with:
 
