@@ -1,8 +1,8 @@
 package mono;
 public class MonoPackageManager_Resources {
 	public static String[] Assemblies = new String[]{
-		/* We need to ensure that "Groceries.dll" comes first in this list. */
-		"Groceries.dll",
+		/* We need to ensure that "ListMaker.dll" comes first in this list. */
+		"ListMaker.dll",
 		"Firebase.dll",
 		"Json.Net.dll",
 		"LiteDB.dll",
